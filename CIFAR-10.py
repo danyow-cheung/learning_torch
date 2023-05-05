@@ -10,7 +10,7 @@ from d2l import torch as d2l
 '''kaggle-图像分类比赛 使用ResNet18'''
 
 '''导入数据集'''
-d2l.DATA_HUB['cifar10_tiny'] = (d2l.DATA_URL+'kagg;e_cifar10_tiny.zip',
+d2l.DATA_HUB['cifar10_tiny'] = (d2l.DATA_URL+'kaggle_cifar10_tiny.zip',
                                 '2068874e4b9a9f0fb07ebe0ad2b29754449ccacd')
 
 
